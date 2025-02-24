@@ -1,6 +1,6 @@
 [project]
 name = "NEMO-contracts"
-version = "1.0.0"
+version = "1.0.1"
 description = "Plugin for NEMO allowing facility managers to keep track of service contracts, procurement and contractors"
 keywords = ["NEMO"]
 readme = "README.md"
